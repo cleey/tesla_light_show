@@ -24,3 +24,5 @@ Enjoy ^_^ !
 # reference 
 https://teslagu.ru/custom-tesla-light-show/   
 https://driveteslacanada.ca/lightshow/custom-tesla-light-show-library/
+https://teslalightshare.io/
+https://github.com/teslamotors/light-show
